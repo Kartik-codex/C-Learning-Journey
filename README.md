@@ -22,6 +22,7 @@ This repository contains all the C programs I write while learning the C program
 | 02 | Print "Mooo" N Times | ✅ |
 | 03 | Even Numbers Infinite | ✅ |
 | 04 | Fahrenheit to Celsius | ✅ |
+| 05 | Character Counter | ✅ |
 
 ## How to Compile
 
