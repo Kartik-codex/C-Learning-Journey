@@ -20,6 +20,7 @@ This repository contains all the C programs I write while learning the C program
 |-----|---------|--------|
 | 01 | User Greeting  | ✅ |
 | 02 | Print "Mooo" N Times | ✅ |
+| 03 | Even Numbers Infinite
 
 ## How to Compile
 
