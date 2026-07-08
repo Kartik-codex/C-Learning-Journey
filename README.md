@@ -29,7 +29,6 @@ gcc filename.c -o program
 ```
 
 ## Goals
-## Goals
 
 - Learn C Programming
 - Build Strong Programming Fundamentals
