@@ -1,5 +1,5 @@
 # C-Learning-Journey
-Welcome to my C programming journey! 🚀
+Welcome to my C programming journey! 
 
 This repository contains all the C programs I write while learning the C programming language.
 
