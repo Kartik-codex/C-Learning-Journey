@@ -24,12 +24,6 @@ This repository contains all the C programs I write while learning the C program
 | 04 | Fahrenheit to Celsius | ✅ |
 | 05 | Character Counter | ✅ |
 
-## How to Compile
-
-```bash
-gcc filename.c -o program
-./program
-```
 
 ## Goals
 
